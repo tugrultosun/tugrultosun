@@ -18,4 +18,4 @@ Here are some of the technologies I work with:
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{tugrultosun}/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=tugrultosun&color=blue&style=for-the-badge)
