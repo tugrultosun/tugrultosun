@@ -4,10 +4,6 @@
 Software engineer, working mostly in C# and Unity on mobile games — level solvers and
 generators, the editors designers author content in, live-ops events and monetization.
 
-Currently shipping three titles from one codebase at Unico Studio: **Family Sort**,
-**Bus Rush** and **Hop n Sort**. Previously **Cat Heroes: Puzzle Adventure** and
-**Match Stars** at Cratoonz.
-
 ### 🔗 Links
 
 - **[tugrultosun.github.io](https://tugrultosun.github.io/)** — what I have worked on, in more detail
