@@ -1,5 +1,6 @@
 <h1 align="center">Tuğrul Tosun</h1>
 <p align="center">Game Developer — Unity / C# · Istanbul</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tugrultosun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
 Software engineer, working mostly in C# and Unity on mobile games — level solvers and
 generators, the editors designers author content in, live-ops events and monetization.
